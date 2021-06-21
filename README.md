@@ -1,2 +1,2 @@
 # jayeshkumars.github.io
-Personal Webpage (Resume)
+Personal Webpage
